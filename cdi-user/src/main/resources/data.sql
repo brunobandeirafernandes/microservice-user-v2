@@ -1,0 +1,4 @@
+INSERT INTO tb_user (nome, cpf, email, nascimento, foto) VALUES ('Ana Maria de Souza', '123.456.789-11','anamaria@gmail.com', '10/02/1998','c:user/foto/maria.png');
+INSERT INTO tb_user (nome, cpf, email, nascimento, foto) VALUES ('Breno Almeida Silva', '333.488.789-11','brenosilva@gmail.com', '10/04/1999','c:user/foto/breno.png');
+INSERT INTO tb_user (nome, cpf, email, nascimento, foto) VALUES ('Carlos Augusto Farta', '323.558.787-71','carlosaust@gmail.com', '15/04/2001','c:user/foto/carlos.png');
+INSERT INTO tb_user (nome, cpf, email, nascimento, foto) VALUES ('Daniel de Lima', '993.558.787-71','danielima@gmail.com', '13/04/1978','c:user/foto/daniel.png');
